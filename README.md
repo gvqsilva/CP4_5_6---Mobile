@@ -14,13 +14,11 @@ O PitZone nasce para resolver essa fragmentação, unindo em um só app:
 - **Monte sua equipe. Supere seus rivais.** — Fantasy game completo, com ligas entre amigos.
 - **Leve a paixão para as pistas** — loja integrada com produtos oficiais e colecionáveis.
 
-Documentação completa do escopo, marca e modelo de negócio: [`docs/DOCUMENTACAO-CP4.md`](./docs/DOCUMENTACAO-CP4.md)
-
 ## 👥 Integrantes
 
-- _[nome do integrante 1]_
-- _[nome do integrante 2]_
-- _[nome do integrante 3]_
+- _Augusto Mendonça - RM: 558371_
+- _Gabriel Vasquez - RM: 557056_
+- _Gustavo Oliveira - RM: 559163_
 
 > Preencher com o nome completo e RM de cada integrante do grupo.
 
@@ -39,7 +37,7 @@ Documentação completa do escopo, marca e modelo de negócio: [`docs/DOCUMENTAC
 
 ## 🎨 Identidade visual
 
-Fundo preto/azul muito escuro, vermelho como cor de destaque, cards escuros com bordas discretas e elementos luminosos — inspirado em interfaces esportivas premium. Detalhes completos em [`docs/DOCUMENTACAO-CP4.md`](./docs/DOCUMENTACAO-CP4.md).
+Fundo preto/azul muito escuro, vermelho como cor de destaque, cards escuros com bordas discretas e elementos luminosos — inspirado em interfaces esportivas premium. Detalhes completos na documentação.
 
 ## 🛠️ Tecnologias
 
@@ -85,4 +83,4 @@ pitzone/
 
 ## 📄 Licença
 
-Projeto acadêmico desenvolvido para a disciplina de [nome da disciplina] — FIAP.
+Projeto acadêmico desenvolvido para a disciplina de Mobile Development & IOT — FIAP.
