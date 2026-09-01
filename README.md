@@ -4,6 +4,10 @@
 
 **A plataforma completa para fãs de Fórmula 1.**
 
+</div>
+
+
+
 PitZone é um aplicativo mobile que reúne informação, estatísticas, Fantasy, competição social, gamificação e comércio em uma única experiência para quem já é apaixonado por F1 — e para quem está começando a se interessar pela categoria agora.
 
 ## 📖 Sobre o projeto
