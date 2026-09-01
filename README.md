@@ -1,4 +1,6 @@
-# 🏎️ PitZone
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/c3dbb924-e2e6-4629-a864-30fbb0736c65" alt="PitZone Logo" width="250"/>
 
 **A plataforma completa para fãs de Fórmula 1.**
 
