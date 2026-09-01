@@ -46,7 +46,7 @@ Fundo preto/azul muito escuro, vermelho como cor de destaque, cards escuros com 
 ## 🛠️ Tecnologias
 
 - React Native + Expo
-- _(completar conforme definição do time: backend, banco de dados, API de dados de F1, etc.)_
+- Python & Fast API
 
 ## 🚀 Como rodar o projeto
 
