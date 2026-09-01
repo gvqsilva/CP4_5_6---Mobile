@@ -20,8 +20,6 @@ O PitZone nasce para resolver essa fragmentação, unindo em um só app:
 - _Gabriel Vasquez - RM: 557056_
 - _Gustavo Oliveira - RM: 559163_
 
-> Preencher com o nome completo e RM de cada integrante do grupo.
-
 ## 📱 Funcionalidades principais
 
 | Área | Descrição |
