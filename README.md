@@ -85,6 +85,11 @@ pitzone/
 └── package.json
 ```
 
+## Link da Identidade visual
+
+Acesso a plataforma do protótipo:
+https://www.figma.com/design/tUzTrZiqHeJPLijviiSMSw/CP---Mobile?node-id=0-1&t=IFe9yDMuJd0kaHat-1
+
 ## 📄 Licença
 
 Projeto acadêmico desenvolvido para a disciplina de Mobile Development & IOT — FIAP.
